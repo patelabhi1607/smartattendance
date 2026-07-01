@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+*.DS_Store
+.vs/
+.idea/
+.ipynb_checkpoints/
+venv/
+*.h5
+*.clf
+attendance.csv
+attendance.txt
+my_csv.csv
